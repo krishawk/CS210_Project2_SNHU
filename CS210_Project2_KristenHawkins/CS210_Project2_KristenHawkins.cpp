@@ -1,5 +1,8 @@
-// CS210_Project2_KristenHawkins.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// **********************************************************************
+// NAME: KRISTEN HAWKINS
+// DATE: 4/14/2023
+// CS210 PROGRAMMING LANGUAGES
+//***********************************************************************
 
 #include <iostream>
 #include <iomanip>
