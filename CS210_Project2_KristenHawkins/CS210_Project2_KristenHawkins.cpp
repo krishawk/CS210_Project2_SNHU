@@ -75,14 +75,14 @@ int main() {
 
 		}
 
-		cout << (i + 1) << "\t\t$" << fixed << setprecision(2) << "\t\t\t$" << interestAmount << endl;
+	cout << (i + 1) << "\t\t$" << fixed << setprecision(2) << "\t\t\t$" << interestAmount << endl;
 
 
 
-		totalAmount = totalAmount + interestAmount;
+	totalAmount = totalAmount + interestAmount;
 
-		cout << (i + 1) << "\t\t$" << fixed << setprecision(2) << totalAmount << "\t\t\t$" << yearlyTotalInterest << endl;
-	}
+	cout << (i + 1) << "\t\t$" << fixed << setprecision(2) << totalAmount << "\t\t\t$" << yearlyTotalInterest << endl;
+  }
 
 	return 0;
 }
